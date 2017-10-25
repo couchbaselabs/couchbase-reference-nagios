@@ -1,0 +1,2 @@
+# exclude the radar-generated service configs
+etc/objects/dynamic/radar_*
